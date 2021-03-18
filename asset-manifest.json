@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marcela-julio/static/css/main.f2527231.chunk.css",
-    "main.js": "/marcela-julio/static/js/main.71580b1c.chunk.js",
-    "main.js.map": "/marcela-julio/static/js/main.71580b1c.chunk.js.map",
+    "main.js": "/marcela-julio/static/js/main.74d0f2e6.chunk.js",
+    "main.js.map": "/marcela-julio/static/js/main.74d0f2e6.chunk.js.map",
     "runtime-main.js": "/marcela-julio/static/js/runtime-main.2280c736.js",
     "runtime-main.js.map": "/marcela-julio/static/js/runtime-main.2280c736.js.map",
     "static/js/2.e2778c9d.chunk.js": "/marcela-julio/static/js/2.e2778c9d.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.2280c736.js",
     "static/js/2.e2778c9d.chunk.js",
     "static/css/main.f2527231.chunk.css",
-    "static/js/main.71580b1c.chunk.js"
+    "static/js/main.74d0f2e6.chunk.js"
   ]
 }
