@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/marcela-julio/static/css/main.f8cbee5c.chunk.css",
-    "main.js": "/marcela-julio/static/js/main.2819460e.chunk.js",
-    "main.js.map": "/marcela-julio/static/js/main.2819460e.chunk.js.map",
+    "main.css": "/marcela-julio/static/css/main.ece9583d.chunk.css",
+    "main.js": "/marcela-julio/static/js/main.ac1b935b.chunk.js",
+    "main.js.map": "/marcela-julio/static/js/main.ac1b935b.chunk.js.map",
     "runtime-main.js": "/marcela-julio/static/js/runtime-main.2280c736.js",
     "runtime-main.js.map": "/marcela-julio/static/js/runtime-main.2280c736.js.map",
     "static/js/2.c156f0bb.chunk.js": "/marcela-julio/static/js/2.c156f0bb.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.781ad994.chunk.js": "/marcela-julio/static/js/3.781ad994.chunk.js",
     "static/js/3.781ad994.chunk.js.map": "/marcela-julio/static/js/3.781ad994.chunk.js.map",
     "index.html": "/marcela-julio/index.html",
-    "static/css/main.f8cbee5c.chunk.css.map": "/marcela-julio/static/css/main.f8cbee5c.chunk.css.map",
+    "static/css/main.ece9583d.chunk.css.map": "/marcela-julio/static/css/main.ece9583d.chunk.css.map",
     "static/js/2.c156f0bb.chunk.js.LICENSE.txt": "/marcela-julio/static/js/2.c156f0bb.chunk.js.LICENSE.txt",
     "static/media/airplane.b543bfdd.jpg": "/marcela-julio/static/media/airplane.b543bfdd.jpg",
     "static/media/bg1.7806dd97.jpg": "/marcela-julio/static/media/bg1.7806dd97.jpg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.2280c736.js",
     "static/js/2.c156f0bb.chunk.js",
-    "static/css/main.f8cbee5c.chunk.css",
-    "static/js/main.2819460e.chunk.js"
+    "static/css/main.ece9583d.chunk.css",
+    "static/js/main.ac1b935b.chunk.js"
   ]
 }
