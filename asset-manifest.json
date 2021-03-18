@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/marcela-julio/static/css/main.43a0bd3e.chunk.css",
+    "main.js": "/marcela-julio/static/js/main.83d8fde5.chunk.js",
+    "main.js.map": "/marcela-julio/static/js/main.83d8fde5.chunk.js.map",
+    "runtime-main.js": "/marcela-julio/static/js/runtime-main.2280c736.js",
+    "runtime-main.js.map": "/marcela-julio/static/js/runtime-main.2280c736.js.map",
+    "static/js/2.e2778c9d.chunk.js": "/marcela-julio/static/js/2.e2778c9d.chunk.js",
+    "static/js/2.e2778c9d.chunk.js.map": "/marcela-julio/static/js/2.e2778c9d.chunk.js.map",
+    "static/js/3.781ad994.chunk.js": "/marcela-julio/static/js/3.781ad994.chunk.js",
+    "static/js/3.781ad994.chunk.js.map": "/marcela-julio/static/js/3.781ad994.chunk.js.map",
+    "index.html": "/marcela-julio/index.html",
+    "static/css/main.43a0bd3e.chunk.css.map": "/marcela-julio/static/css/main.43a0bd3e.chunk.css.map",
+    "static/js/2.e2778c9d.chunk.js.LICENSE.txt": "/marcela-julio/static/js/2.e2778c9d.chunk.js.LICENSE.txt",
+    "static/media/airplane.b543bfdd.jpg": "/marcela-julio/static/media/airplane.b543bfdd.jpg",
+    "static/media/bg1.7806dd97.jpg": "/marcela-julio/static/media/bg1.7806dd97.jpg",
+    "static/media/bg10.eba15ac5.jpg": "/marcela-julio/static/media/bg10.eba15ac5.jpg",
+    "static/media/bg12.ce4d5b2c.jpg": "/marcela-julio/static/media/bg12.ce4d5b2c.jpg",
+    "static/media/bg13.912c0961.jpg": "/marcela-julio/static/media/bg13.912c0961.jpg",
+    "static/media/bg14.5d44ca43.jpg": "/marcela-julio/static/media/bg14.5d44ca43.jpg",
+    "static/media/bg15.7bd2f420.jpg": "/marcela-julio/static/media/bg15.7bd2f420.jpg",
+    "static/media/bg4.42032cf7.jpg": "/marcela-julio/static/media/bg4.42032cf7.jpg",
+    "static/media/bg6.8ffef611.jpg": "/marcela-julio/static/media/bg6.8ffef611.jpg",
+    "static/media/bg8.60c5029c.jpg": "/marcela-julio/static/media/bg8.60c5029c.jpg",
+    "static/media/bg9.807423c4.jpg": "/marcela-julio/static/media/bg9.807423c4.jpg",
+    "static/media/goldenGate.6b4b1c52.jpg": "/marcela-julio/static/media/goldenGate.6b4b1c52.jpg",
+    "static/media/maleta.8ead8d0f.jpg": "/marcela-julio/static/media/maleta.8ead8d0f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2280c736.js",
+    "static/js/2.e2778c9d.chunk.js",
+    "static/css/main.43a0bd3e.chunk.css",
+    "static/js/main.83d8fde5.chunk.js"
+  ]
+}
