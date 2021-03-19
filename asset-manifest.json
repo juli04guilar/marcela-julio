@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marcela-julio/static/css/main.0feecfee.chunk.css",
-    "main.js": "/marcela-julio/static/js/main.9c25bad0.chunk.js",
-    "main.js.map": "/marcela-julio/static/js/main.9c25bad0.chunk.js.map",
+    "main.js": "/marcela-julio/static/js/main.6e7d0460.chunk.js",
+    "main.js.map": "/marcela-julio/static/js/main.6e7d0460.chunk.js.map",
     "runtime-main.js": "/marcela-julio/static/js/runtime-main.2280c736.js",
     "runtime-main.js.map": "/marcela-julio/static/js/runtime-main.2280c736.js.map",
     "static/js/2.c156f0bb.chunk.js": "/marcela-julio/static/js/2.c156f0bb.chunk.js",
@@ -24,12 +24,13 @@
     "static/media/bg8.60c5029c.jpg": "/marcela-julio/static/media/bg8.60c5029c.jpg",
     "static/media/bg9.807423c4.jpg": "/marcela-julio/static/media/bg9.807423c4.jpg",
     "static/media/goldenGate.6b4b1c52.jpg": "/marcela-julio/static/media/goldenGate.6b4b1c52.jpg",
-    "static/media/maleta.8ead8d0f.jpg": "/marcela-julio/static/media/maleta.8ead8d0f.jpg"
+    "static/media/maleta.8ead8d0f.jpg": "/marcela-julio/static/media/maleta.8ead8d0f.jpg",
+    "static/media/marryyou.f5df5e0d.mp3": "/marcela-julio/static/media/marryyou.f5df5e0d.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.2280c736.js",
     "static/js/2.c156f0bb.chunk.js",
     "static/css/main.0feecfee.chunk.css",
-    "static/js/main.9c25bad0.chunk.js"
+    "static/js/main.6e7d0460.chunk.js"
   ]
 }
